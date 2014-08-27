@@ -10,6 +10,10 @@
 
 [Type-Class 101](http://inoio.de/blog/2014/07/19/type-class-101-semigroup/)
 
+## Performance
+
+[Mechanical Sympathy](http://mechanical-sympathy.blogspot.com/?m=1)
+
 # Posts
 
 [Java Garbage Collection Distilled](http://mechanical-sympathy.blogspot.com/2013/07/java-garbage-collection-distilled.html?m=1)
