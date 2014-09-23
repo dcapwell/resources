@@ -9,3 +9,5 @@ This section covers things that I need to look into to help support [Tachyon](gi
 [Anti-Caching: A New Approach to Database Management System Architecture](http://www.vldb.org/pvldb/vol6/p1942-debrabant.pdf)
 
 [Towards a One Size Fits All Database Architecture∗](http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper25.pdf)
+
+[The ϕ Accrual Failure Detector](http://ddg.jaist.ac.jp/pub/HDY+04.pdf)
